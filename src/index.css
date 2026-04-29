@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg-base: #0f1117;
+  --bg-surface: #1a1d27;
+  --bg-card: #1e2130;
+  --bg-card-hover: #242840;
+  --bg-elevated: #252a3a;
+  --border: #2d3148;
+  --border-subtle: #232640;
+
+  --text-primary: #e8eaf0;
+  --text-secondary: #8b90a8;
+  --text-muted: #5a6080;
+
+  --blue: #3b82f6;
+  --blue-dim: #1e3a5f;
+  --blue-text: #93c5fd;
+
+  --orange: #f97316;
+  --orange-dim: #4a2510;
+  --orange-text: #fdba74;
+
+  --purple: #a855f7;
+  --purple-dim: #3b1a5e;
+  --purple-text: #d8b4fe;
+
+  --green: #22c55e;
+  --green-dim: #0f3320;
+  --green-text: #86efac;
+
+  --gray: #6b7280;
+  --gray-dim: #1f2330;
+  --gray-text: #9ca3af;
+
+  --red: #ef4444;
+  --red-dim: #3f1010;
+  --red-text: #fca5a5;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 18px;
+}
+
+html {
+  font-size: 14px;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background: var(--bg-base);
+  color: var(--text-primary);
+  min-height: 100vh;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background: none;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-base);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}

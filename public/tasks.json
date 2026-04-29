@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1001,
+    "title": "Pousser profil à Jean-Michel Valocq",
+    "type": "push_profile",
+    "recipient": "Jean-Michel Valocq",
+    "recipientEmail": "jm.valocq@entreprise.fr",
+    "context": "Profil sérieux, forte capacité analyse et chiffrage, 8 ans d'expérience en MOE.",
+    "email": {
+      "subject": "Proposition de profil – Ingénieur Analyste Senior",
+      "body": "Bonjour Jean-Michel,\n\nJ'espère que vous allez bien.\n\nJe me permets de revenir vers vous avec un profil qui correspond exactement à votre besoin en Ingénieur Analyste Senior.\n\nNotre consultant dispose de 8 ans d'expérience en maîtrise d'œuvre, avec une forte capacité d'analyse fonctionnelle et de chiffrage. Il est disponible dès le 1er février.\n\nJe reste disponible pour vous transmettre son CV et organiser un entretien selon votre convenance.\n\nBien cordialement,\nL'équipe BizPilot"
+    },
+    "priority": "haute",
+    "done": false,
+    "createdAt": "2024-01-15T09:30:00.000Z"
+  },
+  {
+    "id": 1002,
+    "title": "Relance après proposition commerciale – Société Nextech",
+    "type": "relance",
+    "recipient": "Sophie Durand",
+    "recipientEmail": "s.durand@nextech.fr",
+    "context": "Proposition envoyée il y a 10 jours, pas de retour. Projet de refonte SI prévu Q1.",
+    "email": {
+      "subject": "Relance – Notre proposition pour la refonte de votre SI",
+      "body": "Bonjour Sophie,\n\nJe me permets de vous relancer suite à notre proposition commerciale envoyée le 5 janvier.\n\nNous avons proposé une équipe complète pour accompagner la refonte de votre SI, avec une approche agile et des profils disponibles immédiatement.\n\nAvez-vous eu l'occasion d'en prendre connaissance ? Je serais ravi d'échanger sur les points qui méritent d'être affinés.\n\nN'hésitez pas à me contacter pour qu'on puisse en discuter.\n\nBien cordialement"
+    },
+    "priority": "haute",
+    "done": false,
+    "createdAt": "2024-01-14T11:00:00.000Z"
+  },
+  {
+    "id": 1003,
+    "title": "Suivi mission consultant chez DataCorp",
+    "type": "suivi",
+    "recipient": "Marc Leblanc",
+    "recipientEmail": "m.leblanc@datacorp.com",
+    "context": "Consultant Thomas R. en mission depuis 3 mois. Point mensuel à planifier.",
+    "email": {
+      "subject": "Point mensuel – Mission Thomas R. chez DataCorp",
+      "body": "Bonjour Marc,\n\nJ'espère que tout se passe bien avec Thomas sur votre projet.\n\nComme convenu, je vous contacte pour notre point mensuel afin de m'assurer que la mission se déroule dans les meilleures conditions.\n\nSeriez-vous disponible cette semaine pour un appel de 15 minutes ? Je suis disponible mardi ou jeudi après-midi.\n\nBien cordialement"
+    },
+    "priority": "normale",
+    "done": false,
+    "createdAt": "2024-01-13T14:00:00.000Z"
+  },
+  {
+    "id": 1004,
+    "title": "Envoi proposition commerciale – Groupe Innova",
+    "type": "proposition",
+    "recipient": "Claire Moreau",
+    "recipientEmail": "c.moreau@groupe-innova.fr",
+    "context": "Appel d'offre reçu pour équipe DevOps. Budget estimé 450K€. Deadline : 20 janvier.",
+    "email": {
+      "subject": "Réponse à votre appel d'offre – Équipe DevOps",
+      "body": "Bonjour Claire,\n\nSuite à notre échange du 10 janvier, veuillez trouver ci-joint notre proposition commerciale pour la constitution de votre équipe DevOps.\n\nNous vous proposons une équipe de 3 ingénieurs avec les compétences suivantes :\n- Expert Kubernetes / Terraform (8 ans d'expérience)\n- Ingénieur CI/CD spécialisé GitLab (5 ans)\n- Administrateur Cloud AWS/Azure (6 ans)\n\nNotre offre s'inscrit dans une enveloppe budgétaire de 420K€ pour 12 mois, avec une disponibilité sous 15 jours.\n\nJe reste à votre disposition pour tout complément d'information.\n\nBien cordialement"
+    },
+    "priority": "haute",
+    "done": false,
+    "createdAt": "2024-01-12T08:45:00.000Z"
+  },
+  {
+    "id": 1005,
+    "title": "Mise à jour base prospects secteur bancaire",
+    "type": "autre",
+    "recipient": "Équipe commerciale",
+    "recipientEmail": "commercial@inetum.fr",
+    "context": "Mettre à jour les contacts Salesforce suite aux changements de postes détectés sur LinkedIn.",
+    "email": {
+      "subject": "Mise à jour contacts – Secteur Bancaire",
+      "body": "Bonjour,\n\nVeuillez trouver ci-dessous la liste des mises à jour à effectuer dans Salesforce pour le secteur bancaire :\n\n1. BNP Paribas : Jean Dupont → nouveau poste DSI\n2. Société Générale : Marie Klein → départ, nouveau contact à identifier\n3. Crédit Agricole : Paul Renard → promotion, nouveau contact opérationnel\n\nMerci de procéder aux mises à jour avant vendredi.\n\nCordialement"
+    },
+    "priority": "basse",
+    "done": false,
+    "createdAt": "2024-01-11T16:20:00.000Z"
+  },
+  {
+    "id": 1006,
+    "title": "Pousser profil développeur React chez StartupXYZ",
+    "type": "push_profile",
+    "recipient": "Antoine Fabre",
+    "recipientEmail": "a.fabre@startupxyz.io",
+    "context": "Startup en croissance, cherche dev React senior pour CTO technique. Budget flexible.",
+    "email": {
+      "subject": "Profil Développeur React Senior – Disponible immédiatement",
+      "body": "Bonjour Antoine,\n\nSuite à notre échange lors du dernier meetup Tech, je souhaitais vous présenter un profil qui devrait vous intéresser.\n\nNotre consultant est développeur React Senior avec 6 ans d'expérience, spécialisé dans les architectures micro-frontend et la performance web. Il a notamment travaillé sur des projets à forte volumétrie dans le secteur fintech.\n\nIl est disponible dès maintenant et serait ravi de découvrir votre projet. Souhaiteriez-vous que j'organise une rencontre ?\n\nBien cordialement"
+    },
+    "priority": "normale",
+    "done": true,
+    "createdAt": "2024-01-10T10:00:00.000Z"
+  },
+  {
+    "id": 1007,
+    "title": "Suivi fin de mission – Consultant chez EDF",
+    "type": "suivi",
+    "recipient": "Patricia Lemaire",
+    "recipientEmail": "p.lemaire@edf.fr",
+    "context": "Mission se termine le 31 janvier. Proposer renouvellement ou nouveau profil.",
+    "email": {
+      "subject": "Fin de mission de notre consultant – Et la suite ?",
+      "body": "Bonjour Patricia,\n\nLa mission de notre consultant Lucas M. arrive à son terme le 31 janvier prochain.\n\nJ'aimerais vous contacter pour faire le bilan de cette collaboration et envisager la suite :\n- Souhaitez-vous prolonger la mission ?\n- Avez-vous de nouveaux besoins pour lesquels nous pourrions vous proposer un profil ?\n\nN'hésitez pas à me contacter pour qu'on puisse en discuter.\n\nBien cordialement"
+    },
+    "priority": "normale",
+    "done": true,
+    "createdAt": "2024-01-09T09:15:00.000Z"
+  }
+]
